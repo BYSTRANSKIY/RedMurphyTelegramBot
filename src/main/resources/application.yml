@@ -1,0 +1,10 @@
+bot:
+  username: red_murphy_bot
+  token: 6071586257:AAF6BJdS9GgDH2pAN_DdA_FmF11kpWJHyfI
+  picture: AgACAgIAAxkBAAP1ZBxeOOo7opfgYyZS_WZBaI7zkkkAAnXHMRv3ZeBI_4apRojvApgBAAMCAAN4AAMvBA
+spring:
+  datasource:
+    username: user
+    password: user
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/telegram_bot

@@ -1,0 +1,1837 @@
+2023-03-12 23:08:46 INFO  TelegramBot:31 - hello
+2023-03-14 15:37:52 DEBUG UpdateProcessor:31 - The User used /start
+2023-03-14 15:58:38 DEBUG UpdateProcessor:31 - The User used /start
+2023-03-14 16:08:34 DEBUG UpdateProcessor:31 - The User used /start
+2023-03-14 16:08:35 DEBUG UpdateProcessor:31 - The User used /start
+2023-03-14 16:20:52 DEBUG UpdateProcessor:31 - The User used /start
+2023-03-14 16:20:52 DEBUG UpdateProcessor:31 - The User used /start
+2023-03-14 16:20:52 DEBUG UpdateProcessor:34 - The User used /help
+2023-03-14 16:20:52 DEBUG UpdateProcessor:34 - The User used /help
+2023-03-14 18:25:02 DEBUG UpdateProcessor:31 - The User used /start
+2023-03-14 18:25:57 DEBUG UpdateProcessor:34 - The User used /help
+2023-03-14 18:26:14 DEBUG UpdateProcessor:37 - The User used Unit
+2023-03-14 18:43:34 DEBUG UpdateProcessor:35 - The User used /start
+2023-03-14 18:43:37 DEBUG UpdateProcessor:35 - The User used /start
+2023-03-14 18:43:39 DEBUG UpdateProcessor:35 - The User used /start
+2023-03-14 18:43:41 DEBUG UpdateProcessor:35 - The User used /start
+2023-03-14 18:43:41 DEBUG UpdateProcessor:35 - The User used /start
+2023-03-14 18:43:43 DEBUG UpdateProcessor:35 - The User used /start
+2023-03-14 19:03:48 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 19:06:41 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 19:13:04 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 19:14:18 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 19:14:18 DEBUG UpdateProcessor:35 - The User used /start
+2023-03-14 19:43:06 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 19:44:58 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 19:47:25 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 20:02:21 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 20:08:25 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 20:20:33 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 20:25:44 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 20:26:07 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-14 20:31:41 ERROR TelegramBot:43 - I DON'T KNOW Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 20:34:19 ERROR TelegramBot:34 - I DON'T KNOW Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:02:54 ERROR TelegramBot:44 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:12:11 ERROR TelegramBot:44 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:12:30 ERROR TelegramBot:44 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:12:37 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-14 21:26:28 ERROR TelegramBot:44 - Error sending commands: [404] Not Found
+2023-03-14 21:28:16 ERROR TelegramBot:44 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:42:49 ERROR TelegramBot:44 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:46:17 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:47:53 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:55:37 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 21:57:23 ERROR TelegramBot:43 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-14 22:03:03 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-14 22:07:16 DEBUG UpdateProcessor:49 - The User used Exercises
+2023-03-14 22:07:19 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:24:39 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:24:43 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:26:09 DEBUG UpdateProcessor:52 - hello
+2023-03-15 13:26:10 DEBUG UpdateProcessor:52 - help
+2023-03-15 13:26:11 DEBUG UpdateProcessor:52 - unit
+2023-03-15 13:26:12 DEBUG UpdateProcessor:52 - exercises
+2023-03-15 13:30:29 DEBUG UpdateProcessor:52 - hello
+2023-03-15 13:30:34 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:30:44 DEBUG UpdateProcessor:52 - unit
+2023-03-15 13:30:46 DEBUG UpdateProcessor:52 - exercises
+2023-03-15 13:34:48 DEBUG UpdateProcessor:52 - unit
+2023-03-15 13:34:49 DEBUG UpdateProcessor:52 - exercises
+2023-03-15 13:35:00 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:42:08 ERROR TelegramBot:90 - Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [404] Not Found
+2023-03-15 13:46:10 DEBUG UpdateProcessor:52 - unit
+2023-03-15 13:46:11 DEBUG UpdateProcessor:52 - exercises
+2023-03-15 13:46:13 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:46:24 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:46:30 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:48:31 DEBUG UpdateProcessor:52 - unit
+2023-03-15 13:48:32 DEBUG UpdateProcessor:52 - exercises
+2023-03-15 13:48:37 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:52:29 DEBUG UpdateProcessor:52 - unit
+2023-03-15 13:52:32 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:52:32 ERROR TelegramBot:62 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Keyboard parameter can't be null in object: ReplyKeyboardMarkup(keyboard=null, resizeKeyboard=null, oneTimeKeyboard=null, selective=null, inputFieldPlaceholder=null, isPersistent=null)
+2023-03-15 13:52:37 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 13:52:37 ERROR TelegramBot:62 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Keyboard parameter can't be null in object: ReplyKeyboardMarkup(keyboard=null, resizeKeyboard=null, oneTimeKeyboard=null, selective=null, inputFieldPlaceholder=null, isPersistent=null)
+2023-03-15 14:01:32 DEBUG UpdateProcessor:52 - unit
+2023-03-15 14:01:41 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 14:01:59 DEBUG UpdateProcessor:52 - unit
+2023-03-15 14:02:02 DEBUG UpdateProcessor:52 - exercises
+2023-03-15 14:03:00 DEBUG UpdateProcessor:52 - unit
+2023-03-15 14:03:03 DEBUG UpdateProcessor:52 - exercises
+2023-03-15 14:03:22 DEBUG UpdateProcessor:52 - Хочу новенькі приколи
+2023-03-15 14:05:31 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 14:13:45 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 14:19:38 DEBUG UpdateProcessor:52 - unit
+2023-03-15 14:19:47 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-15 14:19:53 DEBUG UpdateProcessor:52 - unit
+2023-03-15 14:19:58 DEBUG UpdateProcessor:52 - unit
+2023-03-15 14:21:57 DEBUG UpdateProcessor:52 - Прикол
+2023-03-15 14:22:06 DEBUG UpdateProcessor:37 - The User used /start
+2023-03-16 13:30:53 DEBUG UpdateProcessor:57 - unit
+2023-03-16 13:31:22 DEBUG UpdateProcessor:38 - The User used /start
+2023-03-16 13:32:08 DEBUG UpdateProcessor:58 - unit
+2023-03-16 13:32:15 DEBUG UpdateProcessor:38 - The User used /start
+2023-03-16 13:32:15 ERROR TelegramBot:72 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: wrong HTTP URL specified
+2023-03-16 13:40:00 DEBUG UpdateProcessor:61 - unit
+2023-03-16 13:40:02 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 13:40:03 ERROR TelegramBot:72 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send photo
+2023-03-16 17:06:56 DEBUG UpdateProcessor:61 - unit
+2023-03-16 17:06:56 DEBUG UpdateProcessor:61 - 10
+2023-03-16 17:06:56 DEBUG UpdateProcessor:61 - exercises
+2023-03-16 17:06:56 DEBUG UpdateProcessor:61 - 10
+2023-03-16 17:08:25 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 17:45:25 DEBUG UpdateProcessor:58 - unit
+2023-03-16 17:45:31 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 17:45:31 ERROR TelegramBot:72 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send photo
+2023-03-16 17:47:48 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 17:47:49 ERROR TelegramBot:72 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send photo
+2023-03-16 17:47:51 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 17:47:52 ERROR TelegramBot:72 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send photo
+2023-03-16 17:49:03 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 17:49:04 ERROR TelegramBot:72 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send photo
+2023-03-16 17:49:58 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 17:49:58 ERROR TelegramBot:72 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send photo
+2023-03-16 17:53:30 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 17:53:30 ERROR TelegramBot:72 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send photo
+2023-03-16 18:01:29 DEBUG UpdateProcessor:41 - The User used /start
+2023-03-16 18:01:30 ERROR TelegramBot:72 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send photo
+2023-03-16 18:09:48 DEBUG UpdateProcessor:47 - The User used /start
+2023-03-16 18:09:48 ERROR TelegramBot:72 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: file must be non-empty
+2023-03-16 18:16:16 DEBUG UpdateProcessor:42 - The User used /start
+2023-03-16 18:16:16 ERROR TelegramBot:72 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: file must be non-empty
+2023-03-16 18:23:54 DEBUG UpdateProcessor:42 - The User used /start
+2023-03-16 18:23:55 ERROR TelegramBot:72 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: file must be non-empty
+2023-03-17 14:41:55 DEBUG UpdateProcessor:40 - The User used /start
+2023-03-17 14:41:55 ERROR TelegramBot:72 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: file must be non-empty
+2023-03-21 14:42:21 DEBUG UpdateProcessor:72 - The User used /start
+2023-03-21 14:56:41 DEBUG UpdateProcessor:72 - The User used /start
+2023-03-21 14:56:46 DEBUG UpdateProcessor:82 - The User used Unit
+2023-03-21 14:58:43 DEBUG UpdateProcessor:72 - The User used /start
+2023-03-21 14:58:47 DEBUG UpdateProcessor:72 - The User used /start
+2023-03-21 14:58:49 DEBUG UpdateProcessor:82 - The User used Unit
+2023-03-21 14:59:19 DEBUG UpdateProcessor:72 - The User used /start
+2023-03-21 14:59:23 DEBUG UpdateProcessor:82 - The User used Unit
+2023-03-21 15:47:35 DEBUG UpdateProcessor:72 - The User used /start
+2023-03-21 15:47:48 DEBUG UpdateProcessor:82 - The User used Unit
+2023-03-21 15:48:39 DEBUG UpdateProcessor:89 - /settings
+2023-03-21 15:48:44 DEBUG UpdateProcessor:86 - The User used Exercises
+2023-03-21 15:48:49 DEBUG UpdateProcessor:78 - The User used /help
+2023-03-21 15:48:54 DEBUG UpdateProcessor:72 - The User used /start
+2023-03-21 15:59:13 DEBUG UpdateProcessor:67 - The User:606858456 used /start
+2023-03-21 15:59:20 DEBUG UpdateProcessor:77 - The User:606858456 used /unit
+2023-03-21 15:59:35 DEBUG UpdateProcessor:67 - The User:6018797251 used /start
+2023-03-21 15:59:42 DEBUG UpdateProcessor:77 - The User:6018797251 used /unit
+2023-03-21 16:46:04 DEBUG UpdateProcessor:84 - unit
+2023-03-21 16:46:07 DEBUG UpdateProcessor:77 - The User:606858456 used /unit
+2023-03-21 16:46:13 DEBUG UpdateProcessor:67 - The User:606858456 used /start
+2023-03-21 18:16:16 DEBUG UnitServiceImpl:22 - Unit saved
+2023-03-21 18:22:03 DEBUG UnitServiceImpl:22 - Unit saved
+2023-03-21 18:43:17 DEBUG UpdateProcessor:87 - The User:606858456 used /unit
+2023-03-21 18:45:24 DEBUG UpdateProcessor:87 - The User:606858456 used /unit
+2023-03-22 18:58:44 DEBUG SessionStatusServiceImpl:38 - Status saved chatId:606858456
+2023-03-22 18:59:01 DEBUG UpdateProcessor:107 - The User:606858456 used: /start
+2023-03-22 19:00:57 DEBUG UpdateProcessor:118 - The User:606858456 used: /exercises
+2023-03-22 19:01:01 DEBUG UpdateProcessor:107 - The User:606858456 used: /start
+2023-03-22 19:12:25 DEBUG UpdateProcessor:107 - The User:606858456 used: /start
+2023-03-22 19:12:29 DEBUG UpdateProcessor:120 - The User:606858456 used: /exercises
+2023-03-22 19:14:09 DEBUG UpdateProcessor:107 - The User:606858456 used: /start
+2023-03-22 19:14:12 DEBUG UpdateProcessor:120 - The User:606858456 used: /exercises
+2023-03-22 19:25:13 DEBUG UpdateProcessor:120 - The User:606858456 used: /exercises
+2023-03-22 19:30:33 DEBUG UpdateProcessor:120 - The User:606858456 used: /exercises
+2023-03-22 19:30:36 DEBUG SessionStatusServiceImpl:31 - Status updated chatId: 606858456
+2023-03-22 19:30:36 DEBUG UpdateProcessor:116 - The User:606858456 used: /unit
+2023-03-22 19:45:35 DEBUG SessionStatusServiceImpl:31 - Status updated chatId: 606858456
+2023-03-22 19:45:41 DEBUG UpdateProcessor:121 - The User:606858456 used: /exercises
+2023-03-22 19:46:49 DEBUG UpdateProcessor:108 - The User:606858456 used: /start
+2023-03-22 19:46:53 DEBUG SessionStatusServiceImpl:31 - Status updated chatId: 606858456
+2023-03-22 19:46:53 DEBUG UpdateProcessor:117 - The User:606858456 used: /unit
+2023-03-22 19:47:00 DEBUG SessionStatusServiceImpl:31 - Status updated chatId: 606858456
+2023-03-22 19:47:05 DEBUG UpdateProcessor:108 - The User:606858456 used: /start
+2023-03-23 16:07:18 DEBUG UnitServiceImpl:30 - Unit saved
+2023-03-23 16:12:07 DEBUG UnitServiceImpl:30 - Unit saved
+2023-03-23 17:52:01 DEBUG UpdateProcessor:128 - The User:606858456 used: /exercises
+2023-03-23 17:52:04 DEBUG UpdateProcessor:119 - The User:606858456 used: /help
+2023-03-23 17:52:08 DEBUG UpdateProcessor:115 - The User:606858456 used: /start
+2023-03-23 17:54:20 DEBUG SessionStatusServiceImpl:31 - Status updated chatId: 606858456
+2023-03-23 17:54:20 DEBUG UpdateProcessor:124 - The User:606858456 used: /unit
+2023-03-23 17:54:26 DEBUG SessionStatusServiceImpl:31 - Status updated chatId: 606858456
+2023-03-23 17:55:50 DEBUG UpdateProcessor:119 - The User:606858456 used: /help
+2023-03-23 17:55:59 DEBUG UpdateProcessor:115 - The User:606858456 used: /start
+2023-03-23 18:57:12 DEBUG UpdateProcessor:130 - The User:606858456 used: /help
+2023-03-23 18:57:17 DEBUG SessionStatusServiceImpl:31 - Status updated chatId: 606858456
+2023-03-23 18:57:18 DEBUG UpdateProcessor:135 - The User:606858456 used: /unit
+2023-03-23 18:57:24 DEBUG SessionStatusServiceImpl:31 - Status updated chatId: 606858456
+2023-03-23 18:57:32 DEBUG UpdateProcessor:126 - The User:606858456 used: /start
+2023-03-23 18:57:37 DEBUG UpdateProcessor:66 - User click START_NOW
+2023-03-23 19:49:11 DEBUG UpdateProcessor:181 - unit
+2023-03-23 19:49:17 DEBUG UpdateProcessor:179 - The User:606858456 used: /exercises
+2023-03-23 19:49:21 DEBUG UpdateProcessor:166 - The User:606858456 used: /start
+2023-03-23 19:50:55 DEBUG UpdateProcessor:179 - The User:606858456 used: /exercises
+2023-03-23 19:50:59 DEBUG UpdateProcessor:166 - The User:606858456 used: /start
+2023-03-23 19:51:01 DEBUG UpdateProcessor:66 - User click START_NOW
+2023-03-23 19:53:59 DEBUG UpdateProcessor:168 - The User:606858456 used: /start
+2023-03-23 19:54:12 DEBUG UpdateProcessor:66 - User click START_NOW
+2023-03-23 19:55:51 DEBUG UpdateProcessor:168 - The User:606858456 used: /start
+2023-03-23 19:56:06 DEBUG UpdateProcessor:172 - The User:606858456 used: /help
+2023-03-23 19:56:17 DEBUG UpdateProcessor:66 - User click START_NOW
+2023-03-23 19:58:43 DEBUG UpdateProcessor:172 - The User:606858456 used: /help
+2023-03-23 20:03:21 DEBUG UpdateProcessor:168 - The User:606858456 used: /start
+2023-03-23 20:03:37 DEBUG UpdateProcessor:66 - User click START_NOW
+2023-03-30 18:44:10 DEBUG SessionServiceImpl:49 - Status saved chatId:606858456
+2023-03-30 18:47:53 DEBUG UnitServiceImpl:49 - Unit saved count: 1
+2023-03-30 18:48:19 DEBUG UnitServiceImpl:49 - Unit saved count: 2
+2023-03-30 18:48:27 DEBUG UnitServiceImpl:49 - Unit saved count: 3
+2023-03-30 18:48:37 DEBUG UnitServiceImpl:49 - Unit saved count: 4
+2023-03-30 18:48:44 DEBUG UnitServiceImpl:49 - Unit saved count: 5
+2023-03-30 18:48:53 DEBUG UnitServiceImpl:49 - Unit saved count: 6
+2023-03-30 18:49:01 DEBUG UnitServiceImpl:49 - Unit saved count: 7
+2023-03-30 18:49:08 DEBUG UnitServiceImpl:49 - Unit saved count: 8
+2023-03-30 18:49:14 DEBUG UnitServiceImpl:49 - Unit saved count: 9
+2023-03-30 18:49:23 DEBUG UnitServiceImpl:49 - Unit saved count: 10
+2023-03-30 18:53:33 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 1
+2023-03-30 18:54:12 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 2
+2023-03-30 18:54:19 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 3
+2023-03-30 18:54:27 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 4
+2023-03-30 18:54:36 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 5
+2023-03-30 18:54:44 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 6
+2023-03-30 18:54:50 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 7
+2023-03-30 18:55:06 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 8
+2023-03-30 18:55:18 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 9
+2023-03-30 18:55:27 DEBUG ExerciseServiceImpl:49 - Exercise saved, count: 10
+2023-03-30 18:57:19 DEBUG AnswerServiceImpl:51 - Answer saved, count: 1
+2023-03-30 18:57:30 DEBUG AnswerServiceImpl:51 - Answer saved, count: 2
+2023-03-30 18:57:37 DEBUG AnswerServiceImpl:51 - Answer saved, count: 3
+2023-03-30 18:58:39 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 18:58:44 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 18:59:06 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 18:59:10 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:01:21 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:01:24 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:01:42 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:01:55 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:04:21 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:04:27 ERROR TelegramBot:91 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2023-03-30 19:04:27 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:04:30 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:04:37 ERROR TelegramBot:91 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2023-03-30 19:04:37 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:04:58 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:05:01 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:05:14 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:05:19 ERROR TelegramBot:91 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2023-03-30 19:05:19 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:15:51 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:16:06 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:16:14 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:16:35 ERROR TelegramBot:92 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2023-03-30 19:16:35 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:19:12 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:19:22 DEBUG SessionServiceImpl:32 - Status updated chatId: 606858456
+2023-03-30 19:43:50 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-30 19:44:27 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-03-30 19:44:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-30 19:44:43 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-03-31 22:38:00 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:38:00 ERROR SessionServiceImpl:48 - Error update session actionId
+2023-03-31 22:41:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:43:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:43:09 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:43:12 ERROR TelegramBot:102 - Error editing message text: [400] Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2023-03-31 22:43:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:44:34 ERROR TelegramBot:102 - Error editing message text: [400] Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2023-03-31 22:44:34 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:44:36 ERROR TelegramBot:102 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Media can't be empty in object: InputMediaPhoto(hasSpoiler=null)
+2023-03-31 22:44:36 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:47:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:48:00 ERROR TelegramBot:102 - Error editing message text: [400] Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2023-03-31 22:48:00 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:48:02 ERROR TelegramBot:102 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Media can't be empty in object: InputMediaPhoto(hasSpoiler=null)
+2023-03-31 22:48:02 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:53:15 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:53:24 DEBUG SessionServiceImpl:78 - updateSessionMessageId
+2023-03-31 22:53:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:57:41 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:57:42 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:57:42 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:57:42 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:57:42 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:57:44 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:57:44 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:57:44 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:57:44 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:57:54 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:57:54 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:57:54 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:57:54 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:57:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:57:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:57:56 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:57:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:57:58 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:57:58 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:57:58 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:57:58 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:57:59 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:57:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:57:59 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:00 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:01 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:01 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:01 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:01 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:02 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:02 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:02 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:02 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:04 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:05 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:05 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:05 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:05 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:08 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:09 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:09 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:09 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:09 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:10 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:10 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:10 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:11 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:11 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:11 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:11 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:13 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 22:58:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:15 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:15 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:15 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 22:58:15 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:18 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:18 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:18 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 22:58:18 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:19 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:19 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:19 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 22:58:19 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 22:58:25 ERROR TelegramBot:102 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Media can't be empty in object: InputMediaPhoto(hasSpoiler=null)
+2023-03-31 22:58:25 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 22:58:25 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 22:58:25 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 22:58:25 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:00:29 ERROR TelegramBot:102 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Media can't be empty in object: InputMediaPhoto(hasSpoiler=null)
+2023-03-31 23:00:29 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:00:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:00:29 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:00:29 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:00:56 ERROR TelegramBot:102 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Media can't be empty in object: InputMediaPhoto(hasSpoiler=null)
+2023-03-31 23:00:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:00:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:00:56 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:00:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:00:57 ERROR TelegramBot:102 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Media can't be empty in object: InputMediaPhoto(hasSpoiler=null)
+2023-03-31 23:00:57 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:00:57 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:00:57 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:00:57 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:00:58 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:00:58 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:00:58 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:00:58 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:01:13 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:01:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:01:13 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:01:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:01:19 ERROR TelegramBot:102 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Media can't be empty in object: InputMediaPhoto(hasSpoiler=null)
+2023-03-31 23:01:19 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:01:19 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:01:19 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:01:19 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:20 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:24 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:24 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:03:24 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:27 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:27 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:27 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:03:27 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:28 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:28 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:28 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:03:28 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:29 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:29 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:03:29 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:30 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:30 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:30 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:03:30 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:31 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:31 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:31 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:03:31 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:32 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:32 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:32 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:03:32 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:34 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:34 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:34 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:03:34 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:42 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:42 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:42 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:03:42 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:46 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:46 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:46 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:03:46 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:49 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:49 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:49 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:03:49 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:53 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:53 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:53 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:03:53 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:55 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:55 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:03:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:03:59 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:03:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:03:59 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:03:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:04:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:04:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:04:04 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:04:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:04:07 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:04:07 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:04:07 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:04:07 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:04:09 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:04:09 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:04:09 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:04:09 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:04:11 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:04:11 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:04:11 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:04:11 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:04:24 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:04:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:04:24 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:04:24 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:04:27 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:04:27 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:04:27 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:04:27 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:00 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:00 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:00 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:00 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:03 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:04 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:07 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:07 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:07 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:07 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:08 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:09 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:09 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:09 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:09 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:10 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:10 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:10 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:12 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:05:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:20 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:20 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:20 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:05:20 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:21 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:21 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:21 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:05:21 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:26 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:26 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:26 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:05:26 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:28 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:28 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:28 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:05:28 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:28 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:28 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:28 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:28 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:30 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:30 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:30 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:30 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:31 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:31 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:31 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:05:31 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:05:34 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:05:34 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:05:34 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:05:34 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:06:13 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-03-31 23:06:17 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:06:17 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:06:17 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:06:17 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-03-31 23:06:20 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-03-31 23:06:24 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:06:24 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:06:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:06:24 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-03-31 23:06:28 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-03-31 23:06:32 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:06:32 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:06:32 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:06:32 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-03-31 23:08:27 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:08:27 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:08:27 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:08:27 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:08:28 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:08:28 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:08:28 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:08:28 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:08:29 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:08:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:08:29 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:08:29 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:08:30 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:08:30 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:08:30 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:08:30 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:08:32 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:08:32 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:08:32 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:08:32 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:08:33 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:08:33 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:08:33 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:08:33 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:08:44 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:08:47 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:08:47 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:08:47 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:08:47 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:01 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:01 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:01 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:01 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:03 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:05 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:05 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:05 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:05 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:07 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:07 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:07 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:07 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:09 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:09 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:09 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:09 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:10 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:10 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:10 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:12 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:13 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:13 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:14 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:14 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:14 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:14 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:16 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:16 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:16 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:16 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:18 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:18 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:18 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:09:18 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:31 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:31 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:31 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:09:31 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:35 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:35 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:35 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:35 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:42 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:42 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:42 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:42 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:44 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:44 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:44 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:09:44 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:47 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:47 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:47 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:09:47 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:09:59 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:09:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:09:59 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:09:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:11:39 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:11:39 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:11:39 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:11:39 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:11:39 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:11:39 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:11:39 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:11:39 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:11:42 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:11:42 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:11:42 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:11:42 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:12:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:12:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:12:03 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:12:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:13:58 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:13:58 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:13:58 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:13:58 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:14:07 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:14:07 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:14:07 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-03-31 23:14:07 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:14:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:14:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:14:12 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-03-31 23:14:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-03-31 23:14:13 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-03-31 23:14:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-03-31 23:14:13 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-03-31 23:14:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:16 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:24 ERROR TelegramBot:113 - Error executing org.telegram.telegrambots.meta.api.methods.updatingmessages.EditMessageText query: [400] Bad Request: there is no text in the message to edit
+2023-04-01 15:36:24 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:24 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:24 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:27 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:27 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:27 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:27 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:28 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:28 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:28 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:28 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:29 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:29 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:29 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:30 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:30 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:30 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:30 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:30 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:30 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:30 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:30 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:31 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:31 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:31 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:31 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:32 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:32 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:32 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:32 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:33 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:33 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:33 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:33 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:36 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:36 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:37 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:37 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:43 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:43 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:43 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:44 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:44 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:44 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:44 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:45 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:45 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:45 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:45 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:46 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:46 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:46 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:46 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:46 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:46 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:46 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:46 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:50 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:50 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:50 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:50 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:52 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:52 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:52 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:52 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:53 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:54 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:54 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:54 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:55 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:55 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:56 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:57 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:57 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:57 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:57 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:36:58 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:36:58 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:36:58 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:36:58 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:01 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:01 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:01 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:37:01 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:04 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:37:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:05 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:05 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:05 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:37:05 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:08 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:37:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:10 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:10 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:37:10 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:11 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:11 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:11 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 15:37:11 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:18 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:18 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:18 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 15:37:18 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:20 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:20 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:20 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 15:37:20 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:22 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:22 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:22 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 15:37:22 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:37 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:37 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:37 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 15:37:37 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:39 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:39 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:39 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 15:37:39 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:41 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:41 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:41 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 15:37:41 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:46 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:46 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:46 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:37:46 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:37:51 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:53 ERROR TelegramBot:113 - Error executing org.telegram.telegrambots.meta.api.methods.updatingmessages.EditMessageText query: [400] Bad Request: there is no text in the message to edit
+2023-04-01 15:37:53 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:37:53 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:37:53 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:37:53 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:38:02 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:38:02 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:38:02 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:38:02 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:38:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:38:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:38:04 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:38:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:39:46 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:48:50 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:48:52 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:48:52 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:48:52 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:48:52 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:48:53 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:48:53 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:48:53 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:48:53 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:48:54 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:48:54 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:48:54 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:48:54 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:48:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:48:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:48:56 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 15:48:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:49:01 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:49:01 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:49:01 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 15:49:01 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:49:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:49:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:49:04 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:49:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:49:09 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-04-01 15:49:13 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 15:49:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:49:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:49:13 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-04-01 15:49:17 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:49:17 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:49:17 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 15:49:17 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 15:49:32 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 15:49:32 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 15:49:32 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 15:49:32 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:19:23 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:19:25 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:19:25 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:19:25 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:19:25 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:20:39 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:20:39 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:20:39 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:20:39 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:13 DEBUG SessionServiceImpl:89 - Status saved chatId:941341818
+2023-04-01 16:24:14 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:18 ERROR TelegramBot:115 - Error executing org.telegram.telegrambots.meta.api.methods.updatingmessages.DeleteMessage query: [400] Bad Request: message identifier is not specified
+2023-04-01 16:24:18 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:18 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:18 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:18 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:26 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:26 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:26 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:26 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:29 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:29 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:29 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:31 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:31 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:31 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:31 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:40 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:40 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:40 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:40 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:42 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:42 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:42 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:42 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:43 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:43 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:43 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:44 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:44 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:44 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:44 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:45 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:45 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:45 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:45 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:46 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:46 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:46 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:46 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:49 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:49 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:49 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:24:49 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:54 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:54 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:54 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:24:54 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:57 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:57 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:57 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:57 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:24:59 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:24:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:24:59 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:24:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:00 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:00 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:00 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:00 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:01 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:01 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:01 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:01 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:02 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:02 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:02 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:02 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:03 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:05 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:05 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:05 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:05 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:05 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:05 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:05 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:06 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:06 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:06 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:06 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:07 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:07 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:07 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:07 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:08 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:11 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:11 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:11 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:11 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:11 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:11 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:11 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:11 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:25:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:25:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:25:12 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:25:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:12 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:13 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:13 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:14 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:14 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:14 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:14 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:15 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:15 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:15 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:15 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:16 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:16 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:16 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:16 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:17 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:17 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:17 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:17 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:18 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:18 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:18 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:18 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:19 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:19 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:19 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:19 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:21 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:23 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:23 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:23 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:23 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:24 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:28:24 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:24 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:24 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:24 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:24 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:25 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:25 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:28:25 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:25 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:25 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:25 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:25 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:25 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:28 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:28 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:28 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:28:28 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:31 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:31 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:31 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:28:31 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:31 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:31 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:31 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:28:31 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:32 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:32 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:32 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:28:32 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:33 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:33 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:33 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:28:33 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:34 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:34 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:34 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:28:34 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:35 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:35 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:36 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:28:36 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:36 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:36 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:36 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:28:36 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:38 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:38 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 16:28:38 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:28:38 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:28:51 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:28:51 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:28:51 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:28:51 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:29:16 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:29:16 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:29:16 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:29:16 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:29:54 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:29:54 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:29:54 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:29:54 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:29:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:29:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:29:56 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:29:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:29:58 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:29:58 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:29:58 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:29:58 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:00 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:00 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:00 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:00 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:01 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:01 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:01 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:01 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:02 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:02 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:02 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:02 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:03 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:04 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:05 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:05 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:05 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:05 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:06 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:06 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:06 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:06 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:06 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:06 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:06 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:06 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:07 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:07 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:07 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:07 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:08 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:12 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:12 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:13 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:13 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:13 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:13 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:14 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:14 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:14 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:14 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:17 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:17 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:17 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:17 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:19 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:19 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:19 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:19 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:20 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:20 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:20 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:20 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:21 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:21 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:21 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:21 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:22 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:22 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:22 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:22 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:30:23 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:30:23 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:30:23 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:30:23 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:32:41 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:32:46 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:32:48 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:32:48 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:32:48 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:32:48 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:32:57 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:32:57 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:32:57 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:32:57 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:32:59 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:32:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:32:59 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:32:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:33:01 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:33:01 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:33:01 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:33:01 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:33:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:33:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:33:04 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:33:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:35:59 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:35:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:35:59 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:35:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:00 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:00 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:00 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:36:00 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:02 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:02 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:02 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:36:02 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:03 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:36:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:04 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:36:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:08 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:36:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:09 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:09 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:09 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:36:09 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:10 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:10 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 16:36:10 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:11 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:11 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:11 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:36:11 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:15 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:15 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:15 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:36:15 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:17 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:17 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:17 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:36:17 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:20 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:20 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:20 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:36:20 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:20 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:20 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:20 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 16:36:20 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 16:36:22 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 16:36:22 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 941341818
+2023-04-01 16:36:22 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 16:36:22 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:16 DEBUG SessionServiceImpl:89 - Status saved chatId:989038111
+2023-04-01 19:18:16 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:20 ERROR TelegramBot:115 - Error executing org.telegram.telegrambots.meta.api.methods.updatingmessages.DeleteMessage query: [400] Bad Request: message identifier is not specified
+2023-04-01 19:18:20 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:20 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:20 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:18:20 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:22 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:22 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:22 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:18:22 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:29 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:29 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:18:29 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:34 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:34 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:34 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:18:34 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:40 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:40 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:40 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:18:40 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:43 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:43 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:18:43 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:45 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:45 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:45 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:18:45 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:50 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:50 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:50 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:18:50 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:54 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:54 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:54 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:18:54 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:56 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:18:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:18:59 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:18:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:18:59 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:18:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:19:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:19:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:19:03 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:19:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:19:05 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:19:05 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:19:05 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:19:05 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:19:09 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:19:09 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:19:09 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:19:09 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:20:02 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:20:02 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:20:02 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:20:02 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:20:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:20:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:20:04 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:20:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:20:07 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:20:07 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:20:07 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:20:07 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:20:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:20:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:20:08 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:20:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:21:21 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 989038111
+2023-04-01 19:21:28 ERROR TelegramBot:94 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2023-04-01 19:21:28 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:21:28 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 989038111
+2023-04-01 19:21:36 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 989038111
+2023-04-01 19:21:41 ERROR TelegramBot:94 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2023-04-01 19:21:41 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:21:41 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 989038111
+2023-04-01 19:21:46 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 989038111
+2023-04-01 19:21:51 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 989038111
+2023-04-01 19:21:56 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 989038111
+2023-04-01 19:21:59 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:21:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:21:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:21:59 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 989038111
+2023-04-01 19:22:04 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:22:04 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:22:04 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:22:04 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:22:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:22:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:22:08 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:22:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:22:10 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:22:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:22:10 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:22:10 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:22:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:22:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:22:12 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:22:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:22:14 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:22:14 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 989038111
+2023-04-01 19:22:14 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:22:14 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:32:43 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-04-01 19:32:47 ERROR TelegramBot:94 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2023-04-01 19:32:47 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:32:47 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-04-01 19:37:52 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:37:52 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:37:52 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:37:52 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:37:54 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:37:54 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:37:54 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:37:54 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:37:55 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:37:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:37:55 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:37:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:38:36 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:38:42 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:38:42 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:38:42 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:38:42 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:05 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:05 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:05 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:05 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:07 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:07 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:07 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:07 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:08 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:09 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:09 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:09 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:09 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:10 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:10 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:10 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:10 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:12 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:12 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:12 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:12 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:13 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:13 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:14 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:14 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:14 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:14 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:16 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:16 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:16 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:16 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:18 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:18 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:18 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:18 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:19 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:19 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:19 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:19 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:21 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:21 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:21 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:21 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:22 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:22 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:22 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:22 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:22 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:22 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:22 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:22 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:23 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:23 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:23 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:23 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:27 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:27 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:27 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:27 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:29 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:29 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:29 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:29 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:29 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:29 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:30 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:30 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:30 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:30 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:31 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:31 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:31 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:31 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:33 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:33 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:33 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:33 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:35 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:35 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:35 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:39:35 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:40 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:40 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:40 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:39:40 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:40 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:40 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:40 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:39:40 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:41 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:41 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:41 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:39:41 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:42 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:42 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:42 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:39:42 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:44 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:44 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:44 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:39:44 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:46 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:46 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:46 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:39:46 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:47 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:47 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:47 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:39:47 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:48 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:48 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:48 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:39:48 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:50 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:50 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:50 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:39:50 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:51 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:51 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:51 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:39:51 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:53 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:53 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:53 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:53 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:55 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:55 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:55 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:55 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:56 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:57 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:57 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:57 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:57 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:39:58 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:39:58 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:39:58 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:39:58 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:17 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:17 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:17 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:43:17 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:18 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:18 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:18 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-01 19:43:18 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:19 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:19 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:19 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:19 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:30 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:30 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:30 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:30 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:32 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:32 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:32 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:32 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:33 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:33 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:33 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:33 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:33 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:33 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:33 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:33 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:34 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:34 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:34 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:34 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:35 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:35 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:35 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:35 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:36 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:36 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:36 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:36 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:39 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:39 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:39 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:39 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:39 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:39 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:39 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:39 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:41 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:41 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:41 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:41 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:42 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:42 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:42 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:42 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:43 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:43 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:43 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:43 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:43 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:43 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:44 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:44 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:44 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:44 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:48 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:48 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:48 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:48 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:50 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:50 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:50 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:50 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:50 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:50 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:50 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:50 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:51 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:51 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:51 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:51 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:55 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:55 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:56 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:57 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:57 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:57 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:57 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:58 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:58 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:58 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:58 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:43:59 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:43:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:43:59 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:43:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:44:00 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:44:00 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:44:00 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:44:00 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:44:01 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:44:01 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:44:02 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:44:02 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:44:02 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:44:02 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:44:02 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:44:02 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:44:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:44:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:44:03 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:44:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:44:06 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:44:06 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:44:06 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-01 19:44:06 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:44:08 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:44:08 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:44:08 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:44:08 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:44:11 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:44:11 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:44:11 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:44:11 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:44:13 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:44:13 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:44:13 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:44:13 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:50:55 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:50:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:50:55 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:50:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:50:57 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-01 19:50:57 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-01 19:50:57 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-01 19:50:57 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-01 19:50:59 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-04-01 19:51:03 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-04-03 12:52:43 DEBUG SessionServiceImpl:89 - Status saved chatId:1702625016
+2023-04-03 12:52:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:53:24 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:53:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:53:24 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:53:24 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:53:37 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:53:37 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:53:37 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 12:53:37 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:00 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:00 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:54:00 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 12:54:00 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:03 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:03 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:54:03 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 12:54:03 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:11 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:11 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:54:11 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 12:54:11 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:14 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:14 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:54:14 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 12:54:14 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:16 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:16 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:54:16 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:54:16 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:24 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:24 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:54:24 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:54:24 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:29 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:34 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:34 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:34 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:54:34 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:36 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:36 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:36 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:54:36 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:38 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:38 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:38 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:54:38 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:39 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:39 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:39 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:54:39 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:40 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:40 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:40 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:54:40 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:41 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:41 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:41 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 12:54:41 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:43 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:43 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 12:54:43 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:43 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:43 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 12:54:43 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 12:54:43 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:54:53 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:54:53 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:54:53 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 12:54:53 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:55:53 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:55:53 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:55:53 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 12:55:53 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:56:32 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:56:32 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:56:32 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 12:56:32 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:56:39 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:56:39 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:56:39 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:56:39 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:56:40 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:56:40 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:56:40 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:56:40 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:57:19 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:57:19 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:57:19 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:57:19 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:58:21 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:58:23 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:58:23 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:58:23 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 12:58:23 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:58:44 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 12:58:44 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 12:58:44 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 12:58:44 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 12:58:47 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 1702625016
+2023-04-03 12:58:55 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 1702625016
+2023-04-03 12:59:05 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 1702625016
+2023-04-03 13:03:49 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:03:49 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:03:49 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 13:03:49 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:03:52 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:03:52 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:03:52 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 13:03:52 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:03:54 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:03:54 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:03:54 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 13:03:54 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:03:55 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:03:55 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:03:55 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 13:03:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:03:56 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:03:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:03:56 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 13:03:56 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:03:58 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:03:58 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:03:58 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 13:03:58 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:05:26 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:05:26 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:05:26 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 13:05:26 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:05:27 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:05:27 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:05:27 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 13:05:27 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:05:28 DEBUG SessionServiceImpl:79 - updateSessionMessageId
+2023-04-03 13:05:28 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:05:28 DEBUG SessionServiceImpl:65 - updateSessionExerciseId
+2023-04-03 13:05:28 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:05:47 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 1702625016
+2023-04-03 13:05:49 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 1702625016
+2023-04-03 13:05:55 DEBUG SessionServiceImpl:72 - updateSessionAnswerId
+2023-04-03 13:05:55 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:05:56 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 1702625016
+2023-04-03 13:05:56 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 1702625016
+2023-04-03 13:59:56 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
+2023-04-03 13:59:59 DEBUG SessionServiceImpl:58 - updateSessionUnitId
+2023-04-03 13:59:59 DEBUG SessionServiceImpl:51 - updateSessionActionId
+2023-04-03 13:59:59 DEBUG SessionServiceImpl:39 - actionStatus updated, chatId: 606858456
+2023-04-03 13:59:59 DEBUG SessionServiceImpl:32 - textStatus updated, chatId: 606858456
